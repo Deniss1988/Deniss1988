@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Deniss1988
-- 👀 I’m interested in HTML5, CSS, Javascript, Bootstrap
-- 🌱 I’m currently learning PHP, MySQL
+- 👋 Hi, I’m Deniss Mijusovs a junior web developer
+- 👀 I’m interested in HTML5, CSS, Javascript, React, PHP, Bootstrap, MySQL/PostgreSQL
+- 🌱 I’m currently learning PERN stack
 - 💞️ I’m looking to collaborate on Frontend projects
-- 📫 How to reach me ...
+- 📫 I am located in Riga, Latvia. Contact me by email: deniscj1988@gmail.com
 
 <!---
 Deniss1988/Deniss1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
